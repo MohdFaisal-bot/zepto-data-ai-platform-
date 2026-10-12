@@ -1,0 +1,4 @@
+mkdir zepto-data-ai-platform
+cd zepto-data-ai-platform
+git init
+git branch -M main
